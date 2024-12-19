@@ -1,4 +1,4 @@
-# gocli
+# gocli -> 更好的实现 [go-simplecobra](https://github.com/chhz0/gosimplecobra)
 
 应用框架应该需要以下功能：
 - 命令行参数解析
